@@ -1,1 +1,1 @@
-My first readme
+I am an ALX SE Full-stack Enginineering students
